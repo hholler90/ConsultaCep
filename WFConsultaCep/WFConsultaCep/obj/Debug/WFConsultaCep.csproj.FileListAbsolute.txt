@@ -1,0 +1,12 @@
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\bin\Debug\WFConsultaCep.exe.config
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\bin\Debug\WFConsultaCep.exe
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\bin\Debug\WFConsultaCep.pdb
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\obj\Debug\WFConsultaCep.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\obj\Debug\WFConsultaCep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\obj\Debug\WFConsultaCep.Form1.resources
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\obj\Debug\WFConsultaCep.Form2.resources
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\obj\Debug\WFConsultaCep.Properties.Resources.resources
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\obj\Debug\WFConsultaCep.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\obj\Debug\WFConsultaCep.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\obj\Debug\WFConsultaCep.exe
+C:\Users\Aluno\Documents\hholler\WinForms\Nova pasta\WFConsultaCep\WFConsultaCep\obj\Debug\WFConsultaCep.pdb
